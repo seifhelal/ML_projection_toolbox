@@ -7,7 +7,7 @@ from Bank of England SWP 674: Machine learning at central banks (September 2017)
 - disclaimer:      licence.txt and SWP 674 disclaimer apply
 - documentation:   see README.txt for structure and comments for details
 """
-
+#seifoo
 from __main__ import config,data_func,pd,np,time,pat
 
 time_stamp = time.strftime('%Y-%m-%d %H:%M:%S')
